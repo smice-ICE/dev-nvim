@@ -1,2 +1,2 @@
-# ide-nvim
+# dev-nvim
 dev nvim config 
