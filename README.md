@@ -1,2 +1,5 @@
 # dev-nvim
-dev nvim config 
+
+dev nvim config
+
+git clone to .config/nvim
